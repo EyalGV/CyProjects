@@ -1,5 +1,6 @@
 # CyProjects
 Hello and welcome to my current Project.
+the project was the final task to graduate from john bryce and receive their diploma.
 i Hope you enjoy and Learn from this code more about me.
 its still on its alpha state so things can be challenging in running it.
 MAKE SURE YOU READ the PDF file first till the END! its verry important and explains alot about the code.
@@ -8,3 +9,4 @@ the file designed to run on kali linux's temp folder and might delete existing f
 as said above its still in alpha state so RUNNING THE CODE IS AT YOUR OWN RISK. basicly putting it here to share my knowledge.
 comments for improvements is highly appreciated :D
 last and not least thanks for visiting this page and reading thoroughly.
+Permission to use the file or edit it is granted as long as i get credit from that.
